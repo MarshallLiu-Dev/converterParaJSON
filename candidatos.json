@@ -1,0 +1,137 @@
+[
+  {
+    "cpf": "054.***.***-12",
+    "nome": "TÚLIO ALTOBELLI DE OLIVEIRA",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 540.58,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "074.***.***-62",
+    "nome": "VANESSA CARNEIRO BITU",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": false,
+    "nota": null,
+    "motivoIndeferimento": "Inscrição no ENEM não encontrada. O(A) candidato(a) deverá informar no recurso o ano em que realizou a prova do ENEM."
+  },
+  {
+    "cpf": "017.***.***-55",
+    "nome": "VANESSA PINTO SIQUEIRA",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 590.8,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "605.***.***-22",
+    "nome": "VINICIUS AURÉLIO MARINHO MENEZES",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 568.12,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "078.***.***-07",
+    "nome": "VITÓRIA ALMEIDA SANTOS",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 609.3,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "078.***.***-16",
+    "nome": "VITÓRIA DE SOUZA RODRIGUES",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 522.9,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "024.***.***-09",
+    "nome": "VITÓRIA ELLEN CABRAL DE SOUSA",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 636.9,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "070.***.***-55",
+    "nome": "VIVIANE BATISTA SILVA",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": false,
+    "nota": null,
+    "motivoIndeferimento": "Inscrição no ENEM não encontrada. O(A) candidato(a) deverá informar no recurso o ano em que realizou a prova do ENEM."
+  },
+  {
+    "cpf": "345.***.***-39",
+    "nome": "WELLINGTON LUIZ DO NASCIMENTO",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 440.18,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "083.***.***-35",
+    "nome": "WELLINGTON RODRIGUES DA COSTA",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": false,
+    "nota": null,
+    "motivoIndeferimento": "Inscrição no ENEM não encontrada. O(A) candidato(a) deverá informar no recurso o ano em que realizou a prova do ENEM."
+  },
+  {
+    "cpf": "061.***.***-27",
+    "nome": "WELLINGTON SANTOS DE ARAÚJO",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 599.86,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "066.***.***-06",
+    "nome": "WESLEY SANTOS DE ARAÚJO",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 653.1,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "075.***.***-57",
+    "nome": "WEVERTON DA SILVA OLIVEIRA",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 487.04,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "079.***.***-93",
+    "nome": "WILLAMY BRUNNO VIEIRA SILVA",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 566.56,
+    "motivoIndeferimento": null
+  },
+  {
+    "cpf": "060.***.***-40",
+    "nome": "YAN BRASIL ANGELIM DE BRITO",
+    "curso": "e",
+    "polo": "Desenvolvimento",
+    "parecer": true,
+    "nota": 672.68,
+    "motivoIndeferimento": null
+  }
+]
